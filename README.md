@@ -29,6 +29,8 @@ npm start
 
 Runs on http://localhost:3001.
 
+Weather data: http://localhost:3001/api/weather
+
 ### Frontend
 
 ```bash
