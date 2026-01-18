@@ -2,6 +2,18 @@
 
 A simple full-stack weather app built with React and Express. The backend fetches data from the Hong Kong Observatory Open Data API, and the frontend displays current weather info.
 
+## 📸 Screenshots & Demo
+
+### Application Screenshots
+
+## Frontend UI
+
+![alt text](<assets/frontend ui.png>)
+
+## Backend API
+
+![alt text](<assets/backened weather data.png>)
+
 ## Tech Stack
 
 ### Backend
